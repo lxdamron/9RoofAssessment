@@ -1,0 +1,493 @@
+.content-area h1 {
+  font-family: 'Montserrat';
+  clear: both;
+  text-align: center;
+  margin: 10px 0 27px 0;
+  font-size: 25px;
+  line-height: 24px;
+  color: #008051;
+  text-transform: uppercase
+}
+
+.info-container {
+  width: 100%;
+  padding: 0 0 13px
+}
+
+.info-container .info-section {
+  overflow: hidden;
+  padding: 0 0 0 27px
+}
+
+.info-container .list-info {
+  float: left;
+  width: 208px;
+  border-right: 1px solid #008051;
+}
+
+.info-container .list-info .list {
+  font-family: 'Montserrat';
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+  padding: 10px 0 10px;
+  font-size: 16px;
+  line-height: 16px
+}
+
+.info-container .list-info .list li {
+  vertical-align: top;
+  padding: 0 0 9px
+}
+
+.info-container .list-info .list a {
+  display: block;
+  padding: 8px 10px 9px;
+  color: #4d4d4d;
+}
+
+.info-container .list-info .list .CMSListMenuHighlightedLI a,
+.info-container .list-info .list a:hover {
+  color: #004D30;
+  font-weight: 500;
+  background: #e9eaea;
+}
+
+img.bannertopp2 {
+  max-width:100%;
+  width: 100%; 
+  margin-bottom: 30px; 
+}
+
+.imgandtext {
+    display: flex;
+    line-height: 150px;
+    height: 150px;
+    padding-bottom: 25px;
+}
+
+img.p2img {
+  display: block;
+  float: left;
+  margin: 0 15px 10px 0;
+  vertical-align: top;
+}
+
+p.p2text {
+  font-family: 'Montserrat';
+  display: inline-block;
+  font-size: 18px;
+  line-height: 25px;
+  padding-top: 15px;
+}
+
+p.p2text a{
+  color: #008051;
+}
+
+p.p2text a:hover{
+  font-weight: 500;
+  color: #008051;
+}
+
+p.urlsp2 {
+  font-family: 'Montserrat';
+  text-align: center;
+  wight: 500;
+  font-size: 16px;
+  color: #008051;
+}
+
+p.urlsp2 a{
+  text-decoration: none;
+  color: #008051;
+}
+
+p.urlsp2 a:hover{
+  text-decoration: underline;
+  color: #008051;
+}
+
+.info-container .nav {
+  font-family: 'Montserrat';
+  overflow: hidden;
+  list-style: none;
+  margin: 0;
+  padding: 0 0 0 1px;
+}
+
+.info-container .nav li {
+  float: left;
+  margin: 0 1px 0 0;
+}
+
+.info-container .nav a {
+  display: block;  
+  text-align: center;
+  text-decoration: none;
+  min-width: 207px;
+  padding: 7px 2px;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: bold;
+  color: #4d4d4d;
+  text-shadow: 0 1px 1px #fff;
+  background: #acacac;
+  border: 1px solid #9a9a9a;
+  border-width: 1px 1px 0;
+  border-color: #646464 #9a9a9a;
+  box-shadow: 0 1px 0 #949494 inset;
+}
+
+.info-container .nav .active,
+.info-container .nav a:hover {
+  text-decoration: none;
+  background: #f8f5f5;
+  border-color: #646464 #d7d4d4;
+  box-shadow: 0 1px 0 #d5d2d2 inset;
+}
+
+.info-container .nav .active a{
+  background: #f8f5f5;
+}
+
+.info-container #winnumsec {
+  font-family: 'Montserrat';
+  background: #f8f5f5;
+  border: 1px solid #dcdbdb;
+  border-width: 0 1px 1px;
+  border-color: #878787 #dcdbdb;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  margin: 0 1px 3px;
+  padding: 24px 19px;
+  font-size: 16px;
+  line-height: 18px;
+  overflow: hidden;
+}
+
+.info-container #howtoplaysec {
+  font-family: 'Montserrat';
+  background: #f8f5f5;
+  border: 1px solid #dcdbdb;
+  border-width: 0 1px 1px;
+  border-color: #878787 #dcdbdb;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  margin: 0 1px 3px;
+  padding: 24px 19px;
+  font-size: 16px;
+  line-height: 18px;
+  overflow: hidden;
+}
+
+.winninghistory {
+    text-align: center;
+    color: #4d4d4d;
+    font-weight: bold;
+    font-size: 18px;
+    border-bottom: 1px solid #e9e5e6;
+    padding-bottom: 20px;
+}
+
+.DailyDraw {
+  min-height: 280px;
+  text-align: center;
+  display: inline-flex;
+  clean: both;
+}
+
+.DailyDrawDraws h1 {
+  font-size: 24px;
+}
+
+.middayDraw {
+  float: left;
+  margin-left: 20px;
+  margin-right: 75px;
+  margin-top: 15px;
+  width: 294px
+}
+
+.dailypayoutlink {
+  color: #0f6742;
+  display: block;
+  float: right;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+a.dailypayoutlink {
+  text-decoration: none;
+  color: #0f6742;
+}
+
+a:hover.dailypayoutlink {
+  text-decoration: underline;
+}
+
+.dailydrawtime {
+  float: left;
+  color: #717171;
+}
+
+.dailyNumbers {
+  clear: both;
+  background-color: #008051;
+  border-radius: 14px;
+  box-shadow: inset 1px 1px 0 #666;
+  margin: auto;
+  padding-top: 10px;
+  width: 220px;
+}
+
+.circle-list li.wildball {
+  display: block;
+  margin: 10px auto 0 auto;
+  min-height: 50px;
+  clear: both;
+  background: none !important;
+  width: auto !important;
+}
+
+.circle-list li.wildball img {
+  display: inline-block;
+  margin-top: -3px;
+  margin-right: 5px;
+}
+
+.circle-list li.wildball span {
+  background: #253089;
+  color: #fff;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 28px;
+  margin: 0 0 0 -5px;
+}
+
+.circle-list {
+  padding: 3px 0 5px;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.result-area .red-circle,
+.adv-circle .yellow-circle,
+.adv-circle .red-circle,
+.adv-circle .white-circle,
+.circle-list li,
+span.winning_number,
+.blue-circle {
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 28px;
+  width: 40px;
+  height: 40px;
+  background: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  color: #4d4d4d;
+  line-height: 41px;
+}
+
+.wtwlinks a {
+  text-decoration: none;
+  color: #008051;
+  line-height: 35px;
+}
+
+.wtwlinks a:hover {
+  text-decoration: underline;
+  color: #008051;
+}
+
+.htc p {
+  line-height: 28px;
+}
+
+.htc a {
+  text-decoration: none;
+  color: #008051;  
+}
+
+.htc a:hover {
+  text-decoration: underline;
+  color: #008051;
+}
+
+.htpp2 {
+    line-height: 28px;
+    padding-bottom: 15px;
+}
+
+.htpp2 a {
+  text-decoration: none;
+  color: #008051;  
+}
+
+.htpp2 a:hover {
+  text-decoration: underline;
+  color: #008051;  
+}
+
+p.botnote {
+    color: #717171;
+    text-align: center;
+    padding-bottom: 10px;;
+}
+
+.tdwidth {
+    width: 36px;
+}
+
+.prizebot {
+    text-align: center;
+    font-size: 18px;
+}
+
+.prizebot a {
+  text-decoration: none;
+  color: #008051;  
+}
+
+.prizebot a:hover {
+  text-decoration: underline;
+  color: #008051;      
+}
+
+.tab-pane { 
+  display: none;
+}
+
+.tab-pane.active { 
+  display: block; 
+}
+
+/* ------ BEGIN MEDIA CSS ----- */
+
+@media only screen and (max-width:1019px) {
+  .info-container {
+    margin: 0;
+  }
+
+  .info-container .list-info {
+    width: 170px;
+  }
+  .info-container .list-info .list {
+    font-size: 12px;
+    line-height: 14px;
+  }
+}
+
+@media only screen and (max-width:767px),
+screen and (device-width: 320px) {
+  .info-container {
+    margin: 0;
+  }
+
+/* ----- END MEDIA CSS ----- */
+
+  .info-container .list-info .link-section {
+    display: block;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    padding: 6px 2px 6px 2px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    min-width: 149px;
+    color: #fff;
+    text-align: center;
+    background: #048251;
+    text-decoration: none;
+    box-shadow: 0 1px 1px #999;
+    cursor: pointer;
+    position: absolute;
+    right: 0;
+    bottom: 8px
+  }
+
+  .info-container .expanded .link-section span {
+    background-position: 100% -57px;
+  }
+  .info-container .list-info {
+    position: absolute;
+    top: 38px;
+    right: 10px;
+  }
+  .info-container .list-info .list {
+    display: none;
+  }
+  .info-container .list-info .list .CMSListMenuHighlightedLI ul li a {
+    color: #fff;
+  }
+  .info-container .list-info .list .CMSListMenuHighlightedLI ul li.CMSListMenuHighlightedLI a,
+  .info-container .list-info .list .CMSListMenuHighlightedLI ul li a:hover {
+    color: #000;
+  }
+  .info-container .list-info .list .CMSListMenuHighlightedLI a,
+  .info-container .list-info .list a:hover {
+    color: #000;
+  }
+  .info-container .list-info {
+    z-index: 1;
+  }
+}
+.info-container .list-info .list li {
+  vertical-align: top;
+  padding: 0;
+}
+
+.info-container .list-info .list ul {
+  margin: 0;
+  padding: 0;
+}
+
+.info-container .list-info .list ul li a,
+.info-container .list-info .list ul li a:link {
+  padding-left: 30px;
+}
+
+.info-container .list-info .list .CMSListMenuHighlightedLI ul li a {
+  background: none;
+  font-weight: normal;
+}
+
+.info-container .list-info .list .CMSListMenuHighlightedLI ul li.CMSListMenuHighlightedLI a,
+.info-container .list-info .list .CMSListMenuHighlightedLI ul li a:hover {
+  font-weight: bold;
+  background: #e9eaea;
+  text-decoration: none;
+}
+
+.container p {
+  margin: 0 0 29px 10px;
+}
+
+#DailyDraw img.GameLogo {
+  clear: both;
+  display: block;
+  margin: 0 auto
+}
+
+#eveningDraw {
+  float: left;
+  margin-top: 15px;
+  margin-bottom: 50px;
+  width: 294px
+}
+
+.container {
+  height: 1%;
+  position: relative;
+  margin: 0 -7px;
+  width: 984px;
+  padding: 6px 0 0;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4d4d4d;
+  margin-left: auto;
+  margin-right: auto;
+}
